@@ -2882,6 +2882,7 @@ dependencies = [
  "dioxus-devtools",
  "futures-util",
  "half",
+ "icu_properties",
  "image",
  "js-sys",
  "libc",
